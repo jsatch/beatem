@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Hernan/Downloads/SDL2-devel-2.0.8-VC/SDL2-2.0.8/include",
+                "C:/Users/Hernan/Downloads/SDL2_image-devel-2.0.3-VC/SDL2_image-2.0.3/include",
+                "C:/Users/Hernan/Downloads/SDL2-devel-2.0.8-VC/SDL2-2.0.8/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17134.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.15.26726/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "vector-of-bool.cmake-tools"
+        }
+    ],
+    "version": 4
+}
